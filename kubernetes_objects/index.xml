@@ -14,12 +14,11 @@
       
       <guid>https://slashpai.github.io/kube_shots/kubernetes_objects/pod/</guid>
       <description>A pod is the smallest object you can create in kubernetes. It is the single instance of application
-Kubernetes uses yaml file as input. A kubernetes definition file always contains apiVersion, kind, metadata and spec
-apiVersion: Based on what we trying to creation, apiVersion will vary
+ Kubernetes uses yaml file as input. A kubernetes definition file always contains apiVersion, kind, metadata and spec
+ apiVersion: Based on what we trying to creation, apiVersion will vary
 kind: Type of object which we trying to create
 metadata: Data about object
-spec: Specification of object. Details about container to create
-Create the pod definition file say pod.</description>
+spec: Specification of object. Details about container to create</description>
     </item>
     
   </channel>
