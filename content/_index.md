@@ -8,3 +8,9 @@ pre = "<b>1. </b>"
 ## Kubernetes Short Notes
 
 Simple and easy to remember notes on [kubernetes](https://kubernetes.io/)
+
+{{% notice note %}}
+For detailed explanations visit kubernetes main site.
+{{% /notice %}}
+
+1. [Kubernetes Objects](kubernetes_objects)

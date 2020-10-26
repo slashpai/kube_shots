@@ -1,12 +1,15 @@
 ---
 title: "Pod"
 date: 2020-10-26T16:54:28+05:30
-tags: ["pod"] 
 ---
 
+{{% notice info %}}
 A pod is the smallest object you can create in kubernetes. It is the single instance of application
+{{% /notice %}}
 
+{{% notice note %}}
 Kubernetes uses yaml file as input. A kubernetes definition file always contains apiVersion, kind, metadata and spec
+{{% /notice %}}
 
 **apiVersion:** Based on what we trying to creation, apiVersion will vary
 
