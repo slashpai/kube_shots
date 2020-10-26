@@ -5,6 +5,16 @@
     <link>https://slashpai.github.io/kube_shots/tags/</link>
     <description>Recent content in Tags on Kubernetes Short Notes</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://slashpai.github.io/kube_shots/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Mon, 26 Oct 2020 16:54:28 +0530</lastBuildDate><atom:link href="https://slashpai.github.io/kube_shots/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>pod</title>
+      <link>https://slashpai.github.io/kube_shots/tags/pod/</link>
+      <pubDate>Mon, 26 Oct 2020 16:54:28 +0530</pubDate>
+      
+      <guid>https://slashpai.github.io/kube_shots/tags/pod/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

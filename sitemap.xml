@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://slashpai.github.io/kube_shots/basics/</loc>
+    <loc>https://slashpai.github.io/kube_shots/kubernetes_objects/</loc>
     <lastmod>2020-10-26T13:42:00+05:30</lastmod>
   </url>
   
@@ -13,11 +13,22 @@
   </url>
   
   <url>
-    <loc>https://slashpai.github.io/kube_shots/categories/</loc>
+    <loc>https://slashpai.github.io/kube_shots/kubernetes_objects/pod/</loc>
+    <lastmod>2020-10-26T16:54:28+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://slashpai.github.io/kube_shots/tags/pod/</loc>
+    <lastmod>2020-10-26T16:54:28+05:30</lastmod>
   </url>
   
   <url>
     <loc>https://slashpai.github.io/kube_shots/tags/</loc>
+    <lastmod>2020-10-26T16:54:28+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://slashpai.github.io/kube_shots/categories/</loc>
   </url>
   
 </urlset>
