@@ -1,6 +1,7 @@
 baseURL = "https://slashpai.github.io/kube_shots/"
 languageCode = "en-us"
 title = "Kubernetes Short Notes"
+author = "Pai"
 theme = "hugo-theme-learn"
 
 # For search functionality
